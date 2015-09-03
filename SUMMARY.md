@@ -6,3 +6,4 @@
 * [乐评](publish/music-critics/index.md)
 * [喜欢的歌词](publish/lyrics/index.md)
 * [喜欢的文字](publish/words/index.md)
+
