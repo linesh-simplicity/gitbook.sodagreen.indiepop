@@ -8,4 +8,5 @@
 * [乐评](publish/music-critics/index.md)
 * [喜欢的歌词](publish/lyrics/index.md)
 * [喜欢的文字](publish/words/index.md)
+   * [流年琐事](publish/words/2014/1123-lost_things_in_life.md)
 
