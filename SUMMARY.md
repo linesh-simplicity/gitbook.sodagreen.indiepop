@@ -10,6 +10,7 @@
    * [黄金时代By王小波](publish/reading-notes/xiaobowang-golden-ages.md)
    * [苏打志By苏打绿乐团](publish/reading-notes/sodagreen-sodazines/index.md)
        * [苏打志1 夏天不该去旅行](publish/reading-notes/sodagreen-sodazines/1-summer-not-the-season-for-travelling.md)
+   * [木心谈木心By陈丹青](publish/reading-notes/chendanqing-muxin-tan-muxin.md)
 * [喜欢的歌词](publish/lyrics/index.md)
 * [喜欢的文字](publish/words/index.md)
    * [流年琐事](publish/words/2014/1123-lost-things-in-life.md)
